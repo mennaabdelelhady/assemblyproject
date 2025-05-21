@@ -1,4 +1,3 @@
-An assembly project to simulate the maze game.
 # 8086 Assembly Quiz Game
 
 This is a simple multiple-choice quiz game written entirely in **x86 DOS Assembly Language**, using **TASM (Turbo Assembler)** and **DOS interrupts** for input/output operations. The program runs in a DOS environment or DOSBox emulator and presents the user with 9 questions related to assembly language and debugging concepts.
